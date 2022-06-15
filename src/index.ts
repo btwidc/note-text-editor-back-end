@@ -15,7 +15,12 @@ const port = process.env.PORT || 4000;
 const app = express();
 const server = http.createServer(app);
 
-app.use(cors());
+app.use(
+  cors({
+    origin: '*',
+    methods: '*',
+  }),
+);
 
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));
