@@ -1,0 +1,20 @@
+[
+  {
+    "id": "2ca07725-4e1b-4505-a1f8-4f1926ca1eb6",
+    "title": "Music",
+    "message": "Eminem is my #favourite singer!",
+    "tag": "#favourite"
+  },
+  {
+    "id": "5c444e15-5ee0-46cf-a014-ab67c4460a34",
+    "title": "School",
+    "message": "My marks in #school are very good",
+    "tag": "#school"
+  },
+  {
+    "id": "0f31b417-efe0-4f4d-a876-ef1c48d62390",
+    "title": "Notebook",
+    "message": "My #school notebook",
+    "tag": "#school"
+  }
+]
